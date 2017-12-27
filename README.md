@@ -1,6 +1,6 @@
 # dict
 
-> A Vue.js project
+> 根据音标查单词的字典
 
 ## Build Setup
 
@@ -18,4 +18,5 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 后台接口项目
+[website](https://github.com/xzjs/website)
